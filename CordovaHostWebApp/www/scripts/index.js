@@ -16,7 +16,7 @@
         
 
         // Here, we redirect to the web site.
-        var targetUrl = "https://quizegg.com/q/150344/";
+        var targetUrl = "http://quizegg.com/q/150344";
         window.location.replace(targetUrl);
     };
 
