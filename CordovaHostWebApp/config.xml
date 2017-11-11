@@ -16,7 +16,7 @@
   <allow-intent href="sms:*" />
   <allow-intent href="mailto:*" />
   <allow-intent href="geo:*" />
-  <allow-navigation href="https://quizegg.com/q/150344" />
+  <allow-navigation href="http://quizegg.com/q/150344" />
   <platform name="android">
     <allow-intent href="market:*" />
   </platform>
