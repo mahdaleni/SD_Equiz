@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<widget xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:vs="http://schemas.microsoft.com/appx/2014/htmlapps" id="io.cordova.myapp4bf954" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" defaultlocale="zh-TW">
-  <name>CordovaHostWebApp</name>
+<widget xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:vs="http://schemas.microsoft.com/appx/2014/htmlapps" id="com.tarai.id" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" defaultlocale="zh-TW">
+  <name>E-Learning Tarai</name>
   <description>A blank project that uses Apache Cordova to help you build an app that targets multiple mobile platforms: Android, iOS, Windows, and Windows Phone.</description>
   <author href="http://cordova.io" email="dev@cordova.apache.org">Apache Cordova Team </author>
   <content src="index.html" />
@@ -16,7 +16,7 @@
   <allow-intent href="sms:*" />
   <allow-intent href="mailto:*" />
   <allow-intent href="geo:*" />
-  <allow-navigation href="http://codeian.idv.tw" />
+  <allow-navigation href="https://quizegg.com/q/150344" />
   <platform name="android">
     <allow-intent href="market:*" />
   </platform>
